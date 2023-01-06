@@ -3,7 +3,7 @@
 </div>
 
 
-- 🔭 Frond-end developer
+- 🔭 Front-end developer
 - 🌱 Current learning Typescript
 - 😄 Pronouns: she/her
 
