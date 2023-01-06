@@ -1,4 +1,6 @@
-### Hi there 👋 I`m Ana Clara Noronha!
+<div align="center">
+  <h1>Hi there 👋 I`m Ana Clara Noronha!</h1>
+</div>
 
 
 - 🔭 Frond-end developer
@@ -6,8 +8,10 @@
 - 😄 Pronouns: she/her
 
 <div align="center">
-  <a href="https://github.com/acnormun">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acnormun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=acnormun&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acnormun&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -26,3 +30,4 @@
   <a href = "mailto:dev.acnormun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/acnoronha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
