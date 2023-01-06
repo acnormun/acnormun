@@ -2,11 +2,14 @@
   <h1>Hi there 👋 I`m Ana Clara Noronha!</h1>
 </div>
 
-
-- 🔭 Front-end developer
+<div align="center">
+ 🔭 Front-end developer
 - 🌱 Current learning Typescript
 - 😄 Pronouns: she/her
-
+</div>
+  
+  ---
+  
 <div align="center">
   <a href="https://github.com/acnormun">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=acnormun&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
