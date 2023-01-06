@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Hi there 👋 I`m Ana Clara Noronha!</h1>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Ana+Clara+Noronha!+<+3)](https://git.io/typing-svg)
 
 <div align="center">
  🔭 Front-end developer
