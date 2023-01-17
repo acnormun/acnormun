@@ -2,7 +2,7 @@
 
 <div align="center">
  🔭 Front-end developer
-- 🌱 Current learning Typescript
+- 🌱 Current learning Vue.js
 - 😄 Pronouns: she/her
 </div>
   
