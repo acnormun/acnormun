@@ -10,10 +10,13 @@
   
 <div align="center">
   <a href="https://github.com/acnormun">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=acnormun&count_private=false&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acnormun&theme=dracula&hide_border=false&&layout=compact"/>
+    <img src="https://streak-stats.demolab.com?user=acnormun&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=acnormun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acnormun&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   </a>
 </div>
+
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
