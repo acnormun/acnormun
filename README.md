@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Ana+Clara+Noronha!+<+3)](https://git.io/typing-svg)
 
 <div align="center">
- 🔭 Front-end developer
-- 🌱 Current learning React
+ 🔭 FullStack developer
+- 🌱 Current learning Python
 - 😄 Pronouns: she/her
 </div>
   
@@ -34,12 +34,4 @@
   <a href="https://instagram.com/dev_aninha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dev.acnormun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/acnoronha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
----
-
-<div align="center">
-
-  ![Snake animation](https://github.com/acnormun/acnormun/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
